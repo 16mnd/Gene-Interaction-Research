@@ -1,0 +1,1 @@
+Analyzing Gene Interactions. In doing so, viewing the predictors/ features that make these genes tick. The dimensionality of these problems persists to be a problem. In result, oftentimes these gene matrices resemble Random Matrices. Random Matrix Theory is still being pursued in order to mitigate the problems faced with these large scale matrices.
